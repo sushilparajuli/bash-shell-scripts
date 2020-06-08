@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Basic Operation](README.md)
+* [Linux Operations](README.md)
+* [1. File Operations](1.-file-operations.md)
 
