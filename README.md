@@ -1,2 +1,2 @@
-# bash-shell-scripts
-Bash Shell Scripting 
+# Initial page
+
